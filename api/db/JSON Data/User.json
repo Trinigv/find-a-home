@@ -4,7 +4,6 @@
         "email": "trini@gmail.com",
         "password": "trinidad",
         "pets": [],
-        "location": "Buenos Aires",
         "role": "User"
     },
     {
@@ -12,7 +11,6 @@
         "email": "sofi@gmail.com",
         "password": "sofi",
         "pets": [],
-        "location": "Pilar",
         "role": "User"
     }
 ]
