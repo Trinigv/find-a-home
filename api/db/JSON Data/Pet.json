@@ -1,0 +1,23 @@
+
+[
+    {
+        "name": "Wendy",
+        "kind": "Cat",
+        "loaction": "Buenos Aires",
+        "status": "Looking for Home"
+    },
+    {
+        "name": "Mauricio",
+        "kind": "Cat",
+        "loaction": "Buenos Aires",
+        "status": "Adopted",
+        "owner": "6377e47171eeec1e1546d6ce"
+    },
+    {
+        "name": "Piuka",
+        "kind": "Dog",
+        "loaction": "Pilar",
+        "status": "Adopted",
+        "owner": "6377e68703bb6bd1c7e9dcbf"
+    }
+]

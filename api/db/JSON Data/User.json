@@ -1,0 +1,18 @@
+[
+    {
+        "fullName": "Trinidad",
+        "email": "trini@gmail.com",
+        "password": "trinidad",
+        "pets": [],
+        "location": "Buenos Aires",
+        "role": "User"
+    },
+    {
+        "fullName": "Sofi",
+        "email": "sofi@gmail.com",
+        "password": "sofi",
+        "pets": [],
+        "location": "Pilar",
+        "role": "User"
+    }
+]
